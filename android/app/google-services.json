@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "167140366999",
+    "project_id": "pos-marketer",
+    "storage_bucket": "pos-marketer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:167140366999:android:9d1cba30a0056537fd27d2",
+        "android_client_info": {
+          "package_name": "com.innvisol.markers.pos.jelly.pos_marketes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "167140366999-3os6shk8e52lcu18qin1jo4o2p4qm310.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDd7qAOYAWeiLJbllpFt9ifNia2jADsFYE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "167140366999-3os6shk8e52lcu18qin1jo4o2p4qm310.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
